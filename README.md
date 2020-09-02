@@ -12,4 +12,4 @@ A little more about me:
 - 👯 I’m looking to collaborate on Open Source and tutorials at Dev Isle.
 - 🤔 I’m looking for help with Slate JS, if you are a guru, feel free to reach out!
 - 💬 Ask me about React, Node, GraphQL, Mongo, Microservices.
-- ⚡ Fun fact: I can cook a mighty Schnitzel
+- ⚡ Fun fact: I can cook a mean Schnitzel
