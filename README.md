@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Slate JS, if you are a guru, feel free to reach out!
 - 💬 Ask me about React, Node, GraphQL, Mongo, Microservices.
 - ⚡ Fun fact: I can cook a mighty Schnitzel
+
+[!Thinking](https://cdn.discordapp.com/emojis/750435305357705316.png?v=1)
