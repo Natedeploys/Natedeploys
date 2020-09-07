@@ -1,4 +1,4 @@
-### Hi there, I'm Jhony (Nate or Natedeploys) 👋
+### Hi there 👋
 
 <!--
 **Natedeploys/Natedeploys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
