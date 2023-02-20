@@ -1,9 +1,7 @@
-Hi there i'm a dev:
+Some of my quotes, maybe they give an insight to who i am:
 
-- 🔭 I’m currently working on open source and well the rest is secret :) ...
-- 🌱 I’m currently learning about Websockets, Scaling, Electron and Redis.
-- 👯 I’m looking learn and collaborate on emerging tech.
-- 🤔 I’m looking for help with Slate JS, if you are a guru, feel free to reach out!
-- 🤞  I'll always be a developer at heart.
-- 💬 Ask me about React, Node, GraphQL, Mongo, Microservices.
-- ⚡ Fun fact: I can cook a mean Schnitzel
+"I find the creativity in coding comes from the composition of data structures, patterns and systems"
+
+"Meaningful is exactly whatever that is, where i need to be"
+
+"Learning is the only way as long as you're alive"
