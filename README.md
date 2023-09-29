@@ -1,7 +1,7 @@
-Some of my quotes, maybe they give an insight to who i am:
+Hello, World!, I'm Jhony
 
-"I find the creativity in coding comes from the composition of data structures, patterns and systems"
+I'm passionate about creating tech solutions that make a difference. With a knack for people oriented solutions, I strive to produce high-quality, impactful work.
 
-"Meaningfulness is what makes life worth living"
+I believe in continuous learning and sharing knowledge. Got tips or resources? I'm all ears!
 
-"Learning is the only way forever"
+Let's collaborate on meaningful projects or discuss the infinite realm of coding possibilities over coffee. Reach out to me! Thanks.
