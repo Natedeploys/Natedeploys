@@ -1,7 +1,1 @@
-Hello, World!, I'm Jhony
-
-I'm passionate about creating tech solutions that make a difference. With a knack for people oriented solutions, I strive to produce high-quality, impactful work.
-
-I believe in continuous learning and sharing knowledge. Got tips or resources? I'm all ears!
-
-Let's collaborate on meaningful projects or discuss the infinite realm of coding possibilities over coffee. Reach out to me! Thanks.
+I am Jhony, adept at developing impactful tech solutions with a human-centric approach. Skilled in discerning the essential from the expendable, I focus on initiatives with tangible impact. Committed to continuous learning and knowledge exchange, I seek collaborations on meaningful projects and the exploration of coding's vast possibilities.
